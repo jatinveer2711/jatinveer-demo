@@ -1,3 +1,3 @@
 # jatinveer-demo
 This is my first repository
-author-jatinveer
+author-jatinveer(thakur)
